@@ -7,7 +7,6 @@ Welcome, Our Product Management System represents a comprehensive solution desig
 <h2>Architecture and Technologies:</h2>
 
 <h2>Backend Infrastructure:</h2>
-<br>
 Spring Core, Spring Boot, and Spring Data JPA: These frameworks form the backbone of our backend infrastructure, providing robust support for building enterprise-grade applications. Spring Boot simplifies the setup and configuration, while Spring Data JPA offers powerful abstractions for interacting with the database.
 <br>
 <h2>Frontend Development:<br></h2>
@@ -20,7 +19,7 @@ JavaScript adds interactivity to the frontend, enabling dynamic updates and user
 <h2>Database Management:</h2>
 
 <h3>MySQL:</h3>
-<br> As our chosen database management system, MySQL offers reliability, scalability, and performance. It provides robust features for storing and retrieving product-related data, ensuring data integrity and consistency.
+As our chosen database management system, MySQL offers reliability, scalability, and performance. It provides robust features for storing and retrieving product-related data, ensuring data integrity and consistency.
 
 <br>
 
@@ -36,11 +35,11 @@ Product Status
 <h3>Read: </h3>The system allows users to view product information, including details such as name, description, price, and availability.<br>
 <h3>Update: </h3>Users can modify existing product details, such as updating prices, descriptions, or quantities in stock.<br>
 <h3>Delete:</h3> Products that are no longer needed can be removed from the system, ensuring data cleanliness and organization.<br>
-<h2>Inventory Management:</h2><br>
+<h2>Inventory Management:</h2>
 The system provides functionalities for managing product inventory, including tracking stock levels, receiving new inventory, and updating quantities based on sales or shipments.<br>
-<h2>Sales Tracking:</h2><br>
+<h2>Sales Tracking:</h2>
 Users can monitor sales data, including transaction history, revenue generated, and product performance metrics. This feature enables businesses to make informed decisions and optimize their product offerings.<br>
 
 
-<h2>Conclusion:</h2><br>
+<h2>Conclusion:</h2>
 Our Product Management System offers a comprehensive solution for businesses seeking efficient management of product-related data. With its robust architecture, intuitive user interface, and powerful functionalities, it empowers organizations to streamline their product management processes and drive success in today's competitive market landscape.
