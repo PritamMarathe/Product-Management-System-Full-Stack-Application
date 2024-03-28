@@ -26,11 +26,11 @@ As our chosen database management system, MySQL offers reliability, scalability,
 <h2>Functionalities:</h2>
 <h2>CRUD Operations:</h2>
 <h3>Create: </h3>Users can add new products to the system, providing details such as:
-Product ID
-Product Name
-Product Description
-Product Price
-Product Status
+Product ID,
+Product Name,
+Product Description,
+Product Price,
+Product Status.
 
 <h3>Read: </h3>The system allows users to view product information, including details such as name, description, price, and availability.<br>
 <h3>Update: </h3>Users can modify existing product details, such as updating prices, descriptions, or quantities in stock.<br>
