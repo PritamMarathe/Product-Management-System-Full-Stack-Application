@@ -3,7 +3,7 @@ Product Management Full Stack Aplication Using React JS &amp; J2EE
 
 Welcome, Our Product Management System represents a comprehensive solution designed to facilitate the efficient handling of product-related data within an organization. Let's delve into the details of its architecture, functionalities, and technologies:
 <br><br>
-<hr>
+
 <h2>Architecture and Technologies:</h2>
 <br><br>
 <h2>Backend Infrastructure:</h2>
@@ -23,7 +23,7 @@ JavaScript adds interactivity to the frontend, enabling dynamic updates and user
 <br> As our chosen database management system, MySQL offers reliability, scalability, and performance. It provides robust features for storing and retrieving product-related data, ensuring data integrity and consistency.
 <br>
 <br>
-<hr>
+
 <h2>Functionalities:</h2>
 <br>
 <h2>CRUD Operations:</h2><br> <br>
@@ -43,5 +43,5 @@ The system provides functionalities for managing product inventory, including tr
 Users can monitor sales data, including transaction history, revenue generated, and product performance metrics. This feature enables businesses to make informed decisions and optimize their product offerings.<br><br>
 
 
-<h2>Conclusion:<h2><br>
+<h2>Conclusion:</h2><br>
 Our Product Management System offers a comprehensive solution for businesses seeking efficient management of product-related data. With its robust architecture, intuitive user interface, and powerful functionalities, it empowers organizations to streamline their product management processes and drive success in today's competitive market landscape.
