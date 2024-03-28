@@ -31,7 +31,7 @@ Product Name
 Product Description
 Product Price
 Product Status
-<br>
+
 <h3>Read: </h3>The system allows users to view product information, including details such as name, description, price, and availability.<br>
 <h3>Update: </h3>Users can modify existing product details, such as updating prices, descriptions, or quantities in stock.<br>
 <h3>Delete:</h3> Products that are no longer needed can be removed from the system, ensuring data cleanliness and organization.<br>
