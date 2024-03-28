@@ -44,4 +44,4 @@ Users can monitor sales data, including transaction history, revenue generated, 
 <h2>Conclusion:</h2>
 Our Product Management System offers a comprehensive solution for businesses seeking efficient management of product-related data. With its robust architecture, intuitive user interface, and powerful functionalities, it empowers organizations to streamline their product management processes and drive success in today's competitive market landscape.
 
-<h2><b>Author:</h2>Pritam Marathe
+<h3><b>Author:</h3></b>Pritam Marathe
